@@ -1,0 +1,33 @@
+{
+  "name": "onewordreview",
+  "version": "1.0.0",
+  "description": "One word movies and tv shows reviews",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aalzubidy/onewordreview.git"
+  },
+  "keywords": [
+    "movies",
+    "tv",
+    "shows",
+    "tvshows",
+    "reviews",
+    "one",
+    "word",
+    "review",
+    "review",
+    "one",
+    "word",
+    "reviews"
+  ],
+  "author": "Ahmed Al-Zubidy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalzubidy/onewordreview/issues"
+  },
+  "homepage": "https://github.com/aalzubidy/onewordreview#readme"
+}
